@@ -1,0 +1,60 @@
+if (hasDonated==true){
+ 
+ how many times ? 
+ 
+ last date : 
+ 
+ any discomfort ? 
+ 
+}
+
+isInfected {
+   hepatits // bool
+   malaria // bool  
+   hiv    ,,
+   venereal disease: 
+   unexplained Weight Loss: 
+   Repeated diarrhea:
+   swollen-glands: 
+   continuous-low-grade-fever: 
+   tattooing: 
+   ear-piercing: 
+   dental-extraction: 
+   heart-disease: 
+   lung-disease: 
+   kidney-disease: 
+   jaundice: 
+   cancer: 
+   epilepsy:
+   abnormal-bleeding-tendency:
+   hepatits: 
+   diabetes:
+   tb: 
+   allergic-disease: 
+   std: 
+   typhoid: 
+   fainting spells: 
+}
+
+Medications:{
+ antibiotics :
+ aspirin :
+ alcohol: 
+ steroids: 
+ vaccinations: 
+ rabies-vaccine: 
+}
+ Sugery: {
+   major  minor or no 
+  },
+
+women donor : { 
+pregnant: 
+abortion: 
+small-child: 
+}
+
+
+
+
+
